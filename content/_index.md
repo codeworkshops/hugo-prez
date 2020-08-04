@@ -15,7 +15,7 @@ transition_speed = "fast"
 A Hugo theme for creating Reveal.js presentations.
 
 ~ made by [@dzello](https://dzello.com/) ~
-on Jun 24, 2018
+on Aug 3, 2020
 
 ---
 
