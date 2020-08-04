@@ -29,6 +29,6 @@ content/_index.md
 
 slide 3
 
-## New Slide
+## New 3rd Slide
 
 content/_index.md 
