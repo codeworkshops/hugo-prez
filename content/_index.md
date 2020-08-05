@@ -16,7 +16,7 @@ An introduction to programming
 
 ~ presented [@codeworkshops](https://codeworkshops.com/) ~
 
-on Aug 3, 2020
+on Aug 4, 2020
 
 ---
 
