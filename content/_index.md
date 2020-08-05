@@ -10,11 +10,12 @@ transition = "slide"
 transition_speed = "fast"
 +++
 
-# reveal-hugo
+# Coding Introduction
 
-A Hugo theme for creating Reveal.js presentations, slide decks.
+An introduction to programming
 
-~ made by [@dzello](https://dzello.com/) ~
+~ presented [@codeworkshops](https://codeworkshops.com/) ~
+
 on Aug 3, 2020
 
 ---
