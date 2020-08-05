@@ -14,6 +14,8 @@ transition_speed = "fast"
 
 An introduction to programming
 
+for middle and high school students
+
 ~ presented [@codeworkshops](https://codeworkshops.com/) ~
 
 on Aug 4, 2020
